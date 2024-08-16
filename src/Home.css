@@ -1,0 +1,13 @@
+.cool-cats {
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  .nft {
+    width: auto !important;
+  }
+
+  .cool-cats {
+    width: 100%;
+  }
+}
